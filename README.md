@@ -41,9 +41,6 @@ and for building use
 
 `flutter build apk --release --no-tree-shake-icons`
 
-You can also download the released apk app at
-https://github.com/MohammadJamali/beautiful-destinations-mockup/releases/
-
 ## TODO
 
 * Leverage the benefits of `dart_vlc` library to add windows and linux support
