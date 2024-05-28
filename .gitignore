@@ -1,0 +1,57 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IntelliJ related
+*.iml
+.idea/
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Android related
+android/.gradle/
+android/.idea/
+android/.gradle/
+android/captures/
+android/app/build/
+android/local.properties
+
+# iOS related
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+
+# Web related
+web/.dart_tool/
+web/.packages
+web/build/
+web/.pubspec.lock
+
+# Miscellaneous
+*.log
+*.lock
+*.tmp
+*.swp
+*.DS_Store
+*.dart_tool/
+*.packages
+*.pub/
+*.log
+*.lock
+*.tmp
